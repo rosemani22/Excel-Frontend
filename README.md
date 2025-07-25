@@ -7,10 +7,15 @@ Features
 User Authentication: Secure signup and login functionality
 File Upload: Upload Excel (.xlsx, .xls) files up to 5MB
 Data Visualization: Create interactive charts including:
+
 Line Charts
+
 Bar Charts
+
 Pie Charts
+
 Scatter Plots
+
 Responsive Design: Works on desktop and mobile devices
 Secure: JWT authentication and protected routes
 Tech Stack
